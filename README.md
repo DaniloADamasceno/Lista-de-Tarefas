@@ -4,14 +4,15 @@
 
 Projeto de uma Lista de Tarefas diárias 
 
+![Daily Tasks](https://user-images.githubusercontent.com/71226047/179369082-5ba10e5e-54ca-416d-afdc-c87b544f923f.jpg)
 
-Este projeto foi criado para colocar em pratica os conhecimentos adquiridos em HTML, CSS e o aprimoramento do Javascript.
-O objetivo deste Projeto e o desenvolvimento de uma  Lista de Tarefas com os varios conehecimentos adquiridos ao longo desta etapa em javascript c
+Este projeto foi criado para colocar em prática os conhecimentos adquiridos em HTML, CSS e o aprimoramento do Javascript.
+O objetivo deste Projeto e o desenvolvimento de uma  Lista de Tarefas com os vários conhecimentos adquiridos ao longo desta etapa em javascript.
 
 
-o projeto encontra-se hospedado no link abaixo:
+O projeto encontra-se hospedado no link abaixo:
 
-https://tasklist101.netlify.app/
+[Lista de Tarefas](https://tasklist101.netlify.app/)
 
 Tecnologias utilizadas 
 
@@ -26,3 +27,8 @@ Tecnologias utilizadas
 •	     [![Netlify Status](https://api.netlify.com/api/v1/badges/4fcccf50-a6d6-452b-839e-6852f4824112/deploy-status)](https://app.netlify.com/sites/clocktimer101/deploys)
 
 
+______________________________________________________________________________________________________________________________________________________________
+# Atualizações de Projeto
+
+*Atualização* 1.01 :
+> Adicionada imagem ao Readme e correções gramaticais.
