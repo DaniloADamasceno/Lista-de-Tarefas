@@ -2,6 +2,9 @@
 
 # Calculadora-de-IMC
 
+![GitHub repo size](https://img.shields.io/github/repo-size/DaniloADamasceno/Lista-de-Tarefas?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/DaniloADamasceno/Lista-de-Tarefas?style=for-the-badge)
+
 Projeto de uma Lista de Tarefas diárias 
 
 ![Daily Tasks](https://user-images.githubusercontent.com/71226047/179369082-5ba10e5e-54ca-416d-afdc-c87b544f923f.jpg)
@@ -27,8 +30,13 @@ Tecnologias utilizadas
 •	     [![Netlify Status](https://api.netlify.com/api/v1/badges/4fcccf50-a6d6-452b-839e-6852f4824112/deploy-status)](https://app.netlify.com/sites/clocktimer101/deploys)
 
 
+
+## Autores
+
+- [@DaniloADamasceno](https://github.com/DaniloADamasceno)
+
 ______________________________________________________________________________________________________________________________________________________________
 # Atualizações de Projeto
 
-*Atualização* 1.01 :
+*Atualização* 1.01 e 1.11:
 > Adicionada imagem ao Readme e correções gramaticais.
